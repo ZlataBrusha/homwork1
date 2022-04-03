@@ -10,7 +10,7 @@ public class collections11 {
         FileWriter writer = new FileWriter("2.txt");
         int a;
         while (scanner.hasNextInt()){
-            a = sca
+            a = scanner
         }
     }
 }
